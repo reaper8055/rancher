@@ -1,12 +1,12 @@
 git+https://github.com/rancher/client-python.git@master#egg=client-python
 boto3==1.21.33
-cryptography==39.0.1
+cryptography==43.0.1
 flake8==3.5.0
 invoke==1.2.0
-Jinja2==3.0.0
+Jinja2==3.1.5
 kubernetes==12.0.1
 netaddr==0.7.19
-paramiko==2.10.1
+paramiko==3.4.0
 PyJWT==2.4.0
 pytest-repeat==0.7.0
 pytest-xdist==1.23.0
@@ -16,7 +16,7 @@ pytest-ordering==0.6
 python-digitalocean==1.13.2
 python-terraform==0.10.1
 PyYAML==5.4.1
-requests==2.22.0
+requests==2.32.2
 rsa==4.7.2
 websocket-client==0.57.0
 semver==2.13.0
